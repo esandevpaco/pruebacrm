@@ -9,5 +9,10 @@
 </head>
 <body>
     hola mundo
+
+<table>
+    tabla
+</table>
+
 </body>
 </html>
