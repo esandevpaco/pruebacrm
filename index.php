@@ -11,6 +11,6 @@
     cuerpo
 
 footer
-cambio 2
+cambio 2 edite desde la nube
 </body>
 </html>
